@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukasplaehn
-- 👀 I’m interested in: predominantly Data Management but also interested in cloud infrastructure and Well-Architected Frameworks.
-- 🌱 I’m currently learning more about Apache Open source frameworks related to Data Engineering, but also looking into Terraform and other IaC solutions...
-- 💞️ I’m looking to collaborate on ... Scalable Cloud Data Platform Deployment approaches and Data Management and Data Engineering Solutions.
+- 👀 I’m interested in: predominantly Data Governance & Data Management but also interested in Cloud Infrastructure, Well-Architected Frameworks & AI.
+- 🌱 I’m currently learning more about Apache Open source frameworks related to Data Engineering, but also looking into Terraform and other IaC solutions, whilst also dabbling with AIMA book...
+- 💞️ I’m looking to collaborate on ... Scalable Cloud Data Platform Deployment approaches, Data Management and Data Engineering Solutions, Data Governance Structures and Policies and also AI POCs.
 - 📫 How to reach me ... lukas.plaehn@outlook.com / lukasplaehn.com 
 
 <!---
